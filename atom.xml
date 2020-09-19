@@ -6,7 +6,7 @@
   <link href="http://levelhi412.github.io/atom.xml" rel="self"/>
   
   <link href="http://levelhi412.github.io/"/>
-  <updated>2020-09-19T16:46:02.406Z</updated>
+  <updated>2017-11-23T06:03:40.000Z</updated>
   <id>http://levelhi412.github.io/</id>
   
   <author>
@@ -20,136 +20,487 @@
     <title></title>
     <link href="http://levelhi412.github.io/posts/0.html"/>
     <id>http://levelhi412.github.io/posts/0.html</id>
-    <published>2020-09-19T17:21:21.579Z</published>
-    <updated>2020-09-19T16:46:02.406Z</updated>
+    <published>2020-09-19T17:32:23.546Z</published>
+    <updated>2017-11-23T06:03:40.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">
-&lt;!-- SWFObject&#39;s dynamic embed method replaces this alternative HTML content with Flash content when enough 
-    JavaScript and Flash</summary>
+    <summary type="html">p{padding:0;margin:0;}
+input{font-family:Calibri;}
+textarea{font-family:Calibri;}
+.win10_border{border:1px solid rgba(252, 251, 249,</summary>
         
       
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>physic</title>
-    <link href="http://levelhi412.github.io/posts/7ec.html"/>
-    <id>http://levelhi412.github.io/posts/7ec.html</id>
-    <published>2020-09-19T17:19:15.000Z</published>
-    <updated>2020-09-19T17:19:15.379Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test813</title>
-    <link href="http://levelhi412.github.io/posts/81f7.html"/>
-    <id>http://levelhi412.github.io/posts/81f7.html</id>
-    <published>2020-08-12T23:35:34.000Z</published>
-    <updated>2020-08-12T23:37:15.452Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;test域名是否不变&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) {</summary>
-        
-      
-    
-    
-    
-    
-    <category term="test" scheme="http://levelhi412.github.io/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://levelhi412.github.io/posts/f82e.html"/>
-    <id>http://levelhi412.github.io/posts/f82e.html</id>
-    <published>2020-08-12T16:49:02.000Z</published>
-    <updated>2020-08-12T16:49:55.631Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       </summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testartical</title>
-    <link href="http://levelhi412.github.io/posts/9ad5.html"/>
-    <id>http://levelhi412.github.io/posts/9ad5.html</id>
-    <published>2020-08-12T08:59:29.000Z</published>
-    <updated>2020-08-12T09:08:19.002Z</updated>
-    
-    
-    <summary type="html">testartical no1</summary>
-    
-    
-    
-    <category term="other" scheme="http://levelhi412.github.io/categories/other/"/>
-    
-    
-    <category term="other" scheme="http://levelhi412.github.io/tags/other/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="http://levelhi412.github.io/posts/undefined.html"/>
-    <id>http://levelhi412.github.io/posts/undefined.html</id>
-    <published>2020-08-07T15:21:06.139Z</published>
-    <updated>2020-08-12T08:17:23.706Z</updated>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.544Z</published>
+    <updated>2017-11-27T03:39:14.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;title: hello-world&lt;br&gt;date: 2017-12-02 21:01:24&lt;br&gt;author: levelhi&lt;/p&gt;
-&lt;p&gt;Welcome to kexue.science.&lt;/p&gt;
-&lt;h2 id=&quot;Science&quot;&gt;&lt;a</summary>
+    <summary type="html">/* CSS Document</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.542Z</published>
+    <updated>2016-07-12T01:58:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">/*scrollbar*/
+::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+}
+
+::-webkit-scrollbar-button {
+  height: 0;
+  width: 0;
+}&lt;script&gt;
+       </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.541Z</published>
+    <updated>2017-04-27T07:46:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">.video-player {}
+.video-play, .volume-button {
+	cursor: pointer;
+}
+.video-timer {
+	cursor: default;
+}
+
+/*Start of</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.539Z</published>
+    <updated>2014-09-04T06:51:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">.phoneThumbBar {
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	background-color:#000000;
+	opacity:0.6;
+	height:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.530Z</published>
+    <updated>2020-09-19T17:32:02.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[9]={page:9,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+          </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.529Z</published>
+    <updated>2020-09-19T17:32:02.367Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[99]={page:99,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.528Z</published>
+    <updated>2020-09-19T17:32:02.366Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[98]={page:98,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.526Z</published>
+    <updated>2020-09-19T17:32:02.364Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[97]={page:97,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.523Z</published>
+    <updated>2020-09-19T17:32:02.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[96]={page:96,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.521Z</published>
+    <updated>2020-09-19T17:32:02.361Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[95]={page:95,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.520Z</published>
+    <updated>2020-09-19T17:32:02.360Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[94]={page:94,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.517Z</published>
+    <updated>2020-09-19T17:32:02.358Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[93]={page:93,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.516Z</published>
+    <updated>2020-09-19T17:32:02.357Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[92]={page:92,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.515Z</published>
+    <updated>2020-09-19T17:32:02.355Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[91]={page:91,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.514Z</published>
+    <updated>2020-09-19T17:32:02.354Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[90]={page:90,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.512Z</published>
+    <updated>2020-09-19T17:32:02.187Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[8]={page:8,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+          </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.510Z</published>
+    <updated>2020-09-19T17:32:02.347Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[89]={page:89,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.509Z</published>
+    <updated>2020-09-19T17:32:02.345Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[88]={page:88,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://levelhi412.github.io/posts/0.html"/>
+    <id>http://levelhi412.github.io/posts/0.html</id>
+    <published>2020-09-19T17:32:23.507Z</published>
+    <updated>2020-09-19T17:32:02.344Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">positionForPages[87]={page:87,positions:[]};&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+        </summary>
         
       
     
