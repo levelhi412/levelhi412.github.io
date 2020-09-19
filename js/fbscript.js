@@ -1,4 +1,4 @@
-﻿
+
 					 var ua = navigator.userAgent.toLowerCase(),
 		platform = navigator.platform.toLowerCase(),
 		UA = ua.match(/(opera|ie|firefox|chrome|version)[\s\/:]([\w\d\.]+)?.*?(safari|version[\s\/:]([\w\d\.]+)|$)/) || [null, 'unknown', 0],
